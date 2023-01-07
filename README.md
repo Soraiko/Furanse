@@ -17,9 +17,7 @@ Un redémarrage sera necessaire.
 Pour INSTALLER DIRECTEMENT (**SANS COMPILER**) le DLL (Disponible en téléchargement sur ce GIT) sautez les 3 étapes de la section explicative précédente et remplacez directement le DLL.
 Si vous utilisiez auparavent la fameuse méthode d'édition du registre, n'oubliez pas de restaurer la valeur de "KBDFR.DLL" vers "KBDJPN.DLL" et de redémarrer l'ordinateur.
 
-Grâce à mon nouveau DLL, le raccourcis Alt+Tilde (Tilde étant à l'emplacement du symbole ² sur les clavier français) est à nouveau fonctionnnel pour passer en more Hiragana.
-De plus vous pourrez continuer à utiliser le clavier japonais pour écrire en français, tous les accents et combinaisons de touches françaises y sont disponibles.
-Un seul bémol: lorsqu' utilisé sur l'exploreur de Windows, il semble se remettre en mode qwerty,(Cela n'arrive pas sur la plupart des autre applications)
-Mais cela en vaut quand même la peine car le vrai gros problème était l'impossibilité d'utiliser le raccourcis Alt+Tilde pour passer ne mode Hiragana sans avoir à cliquer à chaque fois sur le "A" en bas de l'écran.
-Vous pouvez continuer à revenir en clavier français avec le raccourcis Alt+Shift.
-Disons que cela réduira quand même votre frustration pour la plupart des application où vous aurez écrit en oubliant de remettre le clavier en français.
+Grâce à mon nouveau DLL, non seulement plus besoin de passer de français à japonais avec le raccourcis "Alt+Shift" mais le raccourcis "Alt+Tilde" 
+pour passer en mode Hiragana directement est à nouveau fonctionnel. 
+Cela neccesite par contre de passer en key template "ATOK" (Voir image "ATOK.png").
+Vous pouvez donc effacer la langue "français" de vos claviers et utiliser le raccourcis Alt+Tilde pour écrire en hiragana.

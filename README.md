@@ -5,10 +5,10 @@ J'utilise pour ce faire un outil officiel de Windows "Microsoft Keyboard Layout 
 https://www.microsoft.com/en-us/download/details.aspx?id=102134
 (Source de mon code disponible pour les sceptiques qui pensent que je vais hacker leur clavier pour dominer le monde)
 
-Pour **COMPILER** mon script (Furanse.klc)
-	-Téléchargez l'outil mentionné ci-avant
-	-Séléctionnez "File > Load Source File..."
-	-Compilez le fichier (cela créera un dossier avec des binaires d'installation, seul le DLL se trouvant dans le dossier amd64 nous intéressera.)
+Pour **COMPILER** mon script (Furanse.klc)  
+	-Téléchargez l'outil mentionné ci-avant  
+	-Séléctionnez "File > Load Source File..."  
+	-Compilez le fichier (cela créera un dossier avec des binaires d'installation, seul le DLL se trouvant dans le dossier amd64 nous intéressera.)  
 	
 Rennomez ce binaire en "KBDJPN.DLL", puis rendez-vous dans le dossier %System32%, faites un backup de votre KDBJPN.DLL et remplacez le par celui-ci.
 Pour que le remplacement soit possible, il vous faudra remplacer le propriétaire et les autorisations d'accès au fichier (Propriétés | Sécurité).

@@ -1,4 +1,4 @@
-Ce projet consiste à compiler un DLL qui vous permet d'utiliser l'IME japonais de Windows avec la disposition d'un clavier français.
+Ce projet consiste à compiler un DLL qui vous permet d'utiliser l'IME japonais de Windows avec la disposition intégrale d'un clavier français.
 Laissez tomber la fameuse solution d'éditer le registre en remplaçant la valeur "KBDJPN.DLL" par "KBDFR.DLL".
 Ma solution conserve la mention "KBDJPN.DLL" et utilise une version modifiée de ce DLL du clavier japonais.
 J'utilise pour ce faire un outil officiel de Windows "Microsoft Keyboard Layout Creator (MSKLC)" disponible au téléchargement ci-dessous:

@@ -5,6 +5,7 @@ J'utilise pour ce faire un outil officiel de Windows "Microsoft Keyboard Layout 
 https://www.microsoft.com/en-us/download/details.aspx?id=102134
 (Source de mon code disponible pour les sceptiques qui pensent que je vais hacker leur clavier pour dominer le monde)
 
+Option 1 (Chiante)
 Pour **COMPILER** mon script (Furanse.klc)  
 	-Téléchargez l'outil mentionné ci-avant  
 	-Séléctionnez "File > Load Source File..."  
@@ -14,6 +15,7 @@ Rennomez ce binaire en "KBDJPN.DLL", puis rendez-vous dans le dossier %System32%
 Pour que le remplacement soit possible, il vous faudra remplacer le propriétaire et les autorisations d'accès au fichier (Propriétés | Sécurité).
 Un redémarrage sera necessaire.
 
+Option 2 (Rapide)
 Pour INSTALLER DIRECTEMENT (**SANS COMPILER**) le DLL (Disponible en téléchargement sur ce GIT) sautez les 3 étapes de la section explicative précédente et remplacez directement le DLL.
 Si vous utilisiez auparavent la fameuse méthode d'édition du registre, n'oubliez pas de restaurer la valeur de "KBDFR.DLL" vers "KBDJPN.DLL" et de redémarrer l'ordinateur.
 

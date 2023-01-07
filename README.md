@@ -3,7 +3,7 @@ Laissez tomber la fameuse solution d'éditer le registre en remplaçant la valeu
 Ma solution conserve la mention "KBDJPN.DLL" et utilise une version modifiée de ce DLL du clavier japonais.
 J'utilise pour ce faire un outil officiel de Windows "Microsoft Keyboard Layout Creator (MSKLC)" disponible au téléchargement ci-dessous:
 https://www.microsoft.com/en-us/download/details.aspx?id=102134
-(Source de mon code disponible pour les sceptiques qui pense que je vais hacker leur clavier pour dominer le monde)
+(Source de mon code disponible pour les sceptiques qui pensent que je vais hacker leur clavier pour dominer le monde)
 
 Pour COMPILER mon script (Furanse.klc)
 	-Téléchargez l'outil mentionné ci-avant

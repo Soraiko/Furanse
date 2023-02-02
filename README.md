@@ -20,7 +20,10 @@ Si vous utilisiez auparavent la fameuse méthode d'édition du registre, n'oubli
 Grâce à mon nouveau DLL, le raccourcis Alt+Tilde (Tilde étant à l'emplacement du symbole ² sur les clavier français) est à nouveau fonctionnnel pour passer en more Hiragana.
 De plus vous pourrez continuer à utiliser le clavier japonais pour écrire en français, tous les accents et combinaisons de touches françaises y sont disponibles.
 
-**POUR ALLER PLUS LOIN ENCORE:**
+Aperçu:
+https://youtu.be/5MkWQcu4iwY
+
+**POUR ALLER PLUS LOIN ENCORE (FACULTATIF):**
 **(Carrément retirer le clavier français pour utiliser le clavier japonais uniquement et le raccourcis hiragana/directinput pour écrire en français)**
 Cela necessite de régler un dernier petit problème:
 Pour les interfaces système tels que le menu démarrer et les fenetres du type "paramètres" (Celles avec les styles Windows, pas l'explorateur classique)
